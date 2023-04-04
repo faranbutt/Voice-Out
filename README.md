@@ -1,4 +1,4 @@
-## Panverse Website Template 👨‍💻
+## Voice Out 
 * Voice Out is our submission for AI Startup Hackathon happening b/w March 31-April 7 sponsored by LabLab.ai .
 
 ## Technologies used:
