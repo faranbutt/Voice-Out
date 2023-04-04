@@ -2,7 +2,7 @@
 * Voice Out is our submission for AI Startup Hackathon happening b/w March 31-April 7 sponsored by LabLab.ai .
 
 ## Technologies used:
-* Backend ===:> Nodejs,Express and OpenAPI API
+* Backend ===:> Nodejs,Express and OpenAI API
 
 ## Key Features:
 * Optimized and Fast 🚀
