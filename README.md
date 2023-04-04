@@ -21,6 +21,7 @@ npm start
 Open [http://localhost:3001](http://localhost:3001/) with your browser to see the result.
 '''
 '''
+![Screenshot from 2023-03-24 17-23-26](https://github.com/faranbutt/Voice-Out/blob/main/voice%20out.png)
 
 
 
