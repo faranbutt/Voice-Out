@@ -33,7 +33,6 @@ View the Demo [App](https://www.dropbox.com/s/gowxubclyy5w80q/Voice%20Out%20Vide
 
 ## Screenshots
 ![y1](https://github.com/faranbutt/Voice-Out/blob/main/voice%20out.png)
-![y2](https://github.com/faranbutt/Voice-Out/blob/main/Struture.png)
 ![y3](https://github.com/faranbutt/Voice-Out/blob/main/iPhone_14_-_1.jpg)
 
 ## Technology Stack
@@ -53,6 +52,11 @@ View the Demo [App](https://www.dropbox.com/s/gowxubclyy5w80q/Voice%20Out%20Vide
 3. Access program through web and mobile plugins.
 
 4. Purely based on  MVC architecture
+
+## Structure
+
+![y2](https://github.com/faranbutt/Voice-Out/blob/main/Struture.png)
+
 ## How to use the app
 
 **Step #1** - Clone the project
