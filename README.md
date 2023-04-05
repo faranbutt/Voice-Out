@@ -20,6 +20,8 @@ Voice Out leverages the power of AI to revolutionize communication, providing ac
 - [Screenshots](#screenshots)
 - [Technology Stack](#technology-stack)
 - [Features](#features)
+- [Structure](#structure)
+- [Interface](#interface)
 - [How to use the app](#how-to-use-the-app)
 - [Collaborators](#collaborators)
 - [References](#references)
@@ -33,7 +35,6 @@ View the Demo [App](https://www.dropbox.com/s/gowxubclyy5w80q/Voice%20Out%20Vide
 
 ## Screenshots
 ![y1](https://github.com/faranbutt/Voice-Out/blob/main/voice%20out.png)
-![y3](https://github.com/faranbutt/Voice-Out/blob/main/iPhone_14_-_1_200x433.jpeg)
 
 ## Technology Stack
 
@@ -56,6 +57,11 @@ View the Demo [App](https://www.dropbox.com/s/gowxubclyy5w80q/Voice%20Out%20Vide
 ## Structure
 
 ![y2](https://github.com/faranbutt/Voice-Out/blob/main/Struture.png)
+
+## Interface
+
+![y3](https://github.com/faranbutt/Voice-Out/blob/main/iPhone_14_-_1_200x433.jpeg)
+
 
 ## How to use the app
 
