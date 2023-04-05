@@ -1,27 +1,80 @@
-## Voice Out 
-* Voice Out is our submission for AI Startup Hackathon happening b/w March 31-April 7 sponsored by LabLab.ai .
+<!-- PROJECT TITLE -->
+  <h1 align="center">Voice Out</h1>
+ <h2 2 align="center">
+    Breaking Language Barriers with Voice Out AI translation
+    <br />
+    </h2>
 
-## Technologies used:
-* Backend ===:> Nodejs,Express and OpenAI API
+## Application Description
 
-## Key Features:
-* Optimized and Fast 🚀
-* Fully responsive design been tested on several devices 📱
-* Built on MVC architechure🎨
+Voice Out leverages the power of AI to revolutionize communication, providing accurate translations without the need for precise vocabulary or grammar. Our platform empowers seamless dialogue, breaking down language barriers and bringing people together with ease.
+
+## Table of Contents
+
+<details>
+<summary>CultiVate</summary>
+
+- [Application Description](#application-description)
+- [Table of Contents](#table-of-contents)
+- [Project Demo](#demo)
+- [Screenshots](#screenshots)
+- [Technology Stack](#technology-stack)
+- [Features](#features)
+- [How to use the app](#how-to-use-the-app)
+- [Collaborators](#collaborators)
+- [References](#references)
+- [License](#license)
+
+</details>
+
+## Video Demo
+
+View the Demo [App](https://www.dropbox.com/s/gowxubclyy5w80q/Voice%20Out%20Video%20Presentation.mov?dl=0)
+
+## Screenshots
+![y1](https://github.com/faranbutt/Voice-Out/blob/main/voice%20out.png)
 
 
+## Technology Stack
 
-## To Run/Change this design:
+| Technology       | Description                                   |
+| ---------------- | --------------------------------------------- |
+| Node JS           | Framework to build apps on server side|
+| Express JS        | Javascript backend framework|
+| OpenAI API        | Ability to perform AI functions on pretrained models|
+
+## Features
+
+1. Ability to convert voice into text .
+
+2. Autocorrects the generated text.
+
+3. Access program through web and mobile plugins.
+
+4. Purely based on  MVC architecture
+## How to use the app
+
+**Step #1** - Clone the project
+
+```bash
+$ git clone https://github.com/faranbutt/Voice-Out
 ```
-git clone https://github.com/faranbutt/Voice-Out
-cd Voice-Out
-npm install
-npm start
-```
-Open [http://localhost:3001](http://localhost:3001/) with your browser to see the result.
-'''
-'''
-![Screenshot from 2023-03-24 17-23-26](https://github.com/faranbutt/Voice-Out/blob/main/voice%20out.png)
+
+**Step #2**
+
+- Install dependencies using: `npm i` OR `yarn`
+
+- To start the webapp, run: `npm start` OR `yarn start`
 
 
+## Authors
 
+| Name            | Link                                   |
+| --------------- | -------------------------------------- |
+| Faran Taimoor Butt | https://www.linkedin.com/in/faranbutt/ |
+| Wilon Wives | https://www.linkedin.com/in/wilonkoo/ |
+| Irfan Ahmed Saleem | https://www.linkedin.com/in/irfan-ahmed-saleem-91535b259/|
+
+## License
+
+[![GitLicense](https://img.shields.io/badge/License-MIT-lime.svg)](https://github.com/sandramsc/CultiVate/blob/master/LICENSE.md)
