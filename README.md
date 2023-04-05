@@ -12,7 +12,7 @@ Voice Out leverages the power of AI to revolutionize communication, providing ac
 ## Table of Contents
 
 <details>
-<summary>CultiVate</summary>
+<summary>Voice Out</summary>
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
