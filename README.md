@@ -33,7 +33,7 @@ View the Demo [App](https://www.dropbox.com/s/gowxubclyy5w80q/Voice%20Out%20Vide
 
 ## Screenshots
 ![y1](https://github.com/faranbutt/Voice-Out/blob/main/voice%20out.png)
-![y3](https://github.com/faranbutt/Voice-Out/blob/main/iPhone_14_-_1.jpg)
+![y3](https://github.com/faranbutt/Voice-Out/blob/main/iPhone_14_-_1_200x433.jpeg)
 
 ## Technology Stack
 
