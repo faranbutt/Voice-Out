@@ -4,6 +4,7 @@ const axios = require("axios");
 const FormData = require("form-data");
 const path = require("path");
 const { Readable } = require('stream');
+const OpenAIApi = process.env.OPENAI_API_KEY;
 
 const router = express.Router();
 const upload = multer({
@@ -30,8 +31,10 @@ async function transcribe(buffer) {
       formData,
       {
         headers: {
-          'Content-Type': `multipart/form-data; boundary=${formData._boundary}`,
-          'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`
+          Authorization:`Bearer ${OpenAIApi}`,
+        "Content-Type":`multipart/form-data; boundary=${formData._boundary}`,
+        "Organization":"org-lba2fQjNS1kIzEITjc8dwFEs"
+
         },
         params: {
           language: 'en',

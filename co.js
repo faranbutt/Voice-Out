@@ -9,14 +9,14 @@ const model = 'whisper-1';
 const formData = new formdata();
 formData.append('model',model)
 formData.append('file',fs.createReadStream(filePath))
-// axios.post('https://api.openai.com/v1/audio/transcriptions',formData,{
-//     headers:{
-//         Authorization:`Bearer ${OpenAIApi}`,
-//         "Content-Type":`multipart/form-data; boundary=${formData._boundary}`
-//     }
-// })
-// .then((response=>console.log(response)))
-// .catch(err=>console.log(err))
+axios.post('https://api.openai.com/v1/audio/transcriptions',formData,{
+    headers:{
+        Authorization:`Bearer ${OpenAIApi}`,
+        "Content-Type":`multipart/form-data; boundary=${formData._boundary}`
+    }
+})
+.then((response=>console.log(response)))
+.catch(err=>console.log(err))
 
 
 const a  = fs.createReadStream(filePath)
