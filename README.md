@@ -16,6 +16,7 @@ Voice Out leverages the power of AI to revolutionize communication, providing ac
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
+- [Application Deployed](#demo app url)
 - [Project Demo](#demo)
 - [Screenshots](#screenshots)
 - [Technology Stack](#technology-stack)
@@ -28,6 +29,9 @@ Voice Out leverages the power of AI to revolutionize communication, providing ac
 - [License](#license)
 
 </details>
+
+## Demo App URL:
+https://odd-teal-chick-kilt.cyclic.app/
 
 ## Video Demo
 
@@ -75,7 +79,7 @@ $ git clone https://github.com/faranbutt/Voice-Out
 
 - Install dependencies using: `npm i` OR `yarn`
 
-- To start the webapp, run: `npm start` OR `yarn start`
+- To start the webapp, run: `npm run dev` OR `yarn run dev`
 
 
 ## Authors
