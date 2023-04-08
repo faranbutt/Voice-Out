@@ -16,7 +16,7 @@ Voice Out leverages the power of AI to revolutionize communication, providing ac
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
-- [Application Deployed](#demo app url)
+- [Application Deployed](#demo-app-url)
 - [Project Demo](#demo)
 - [Screenshots](#screenshots)
 - [Technology Stack](#technology-stack)
@@ -91,7 +91,7 @@ $ git clone https://github.com/faranbutt/Voice-Out
 | Wilon Wives | https://www.linkedin.com/in/wilonkoo/ |
 | Irfan Ahmed Saleem | https://www.linkedin.com/in/irfan-ahmed-saleem-91535b259/|
 
-##Hackathon Link
+## Hackathon Link
 
 Hackathon [Submission](https://lablab.ai/event/ai-startup-hackathon-episode-2/voice-out/voice-out-ai-translation)
 
